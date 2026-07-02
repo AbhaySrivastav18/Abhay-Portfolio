@@ -4,10 +4,17 @@
 
 const roles = [
     "Data Analyst",
+    "Backend Engineer",
     "Power BI Developer",
     "SQL Specialist",
     "Business Intelligence Analyst",
-    "Python Data Analyst"
+    "Python Data Analyst",
+    "Node.js",
+              "Express.js",
+              "RESTful APIs",
+              "JWT Authentication",
+             " MongoDB",
+             " MVC Architecture",
 ];
 
 let roleIndex = 0;
